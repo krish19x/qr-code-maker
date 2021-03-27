@@ -1,0 +1,18 @@
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\bin\Debug\netcoreapp3.1\qr code maker1.exe
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\bin\Debug\netcoreapp3.1\qr code maker1.deps.json
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\bin\Debug\netcoreapp3.1\qr code maker1.runtimeconfig.json
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\bin\Debug\netcoreapp3.1\qr code maker1.runtimeconfig.dev.json
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\bin\Debug\netcoreapp3.1\qr code maker1.dll
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\bin\Debug\netcoreapp3.1\qr code maker1.pdb
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\bin\Debug\netcoreapp3.1\QRCoder.dll
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\obj\Debug\netcoreapp3.1\qr code maker1.csprojAssemblyReference.cache
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\obj\Debug\netcoreapp3.1\qr_code_maker1.Form1.resources
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\obj\Debug\netcoreapp3.1\qr code maker1.csproj.GenerateResource.cache
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\obj\Debug\netcoreapp3.1\qr code maker1.AssemblyInfoInputs.cache
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\obj\Debug\netcoreapp3.1\qr code maker1.AssemblyInfo.cs
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\obj\Debug\netcoreapp3.1\qr code maker1.csproj.CoreCompileInputs.cache
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\obj\Debug\netcoreapp3.1\qr code maker1.csproj.CopyComplete
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\obj\Debug\netcoreapp3.1\qr code maker1.dll
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\obj\Debug\netcoreapp3.1\qr code maker1.pdb
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\obj\Debug\netcoreapp3.1\qr code maker1.genruntimeconfig.cache
+D:\Setup\Visual studio projects\qr code maker1\qr code maker1\bin\Debug\netcoreapp3.1\zxing.dll

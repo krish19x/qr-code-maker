@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kXCOr0YT5suJtCC1+auvO1F2wEhqZervx5Fvi1JN5O6xNRZ09THhaisBAMib1dfT4WhZfRhGGkl9ogDQ80i38Q==",
+  "success": true,
+  "projectFilePath": "D:\\Setup\\Visual studio projects\\qr code maker1\\qr code maker1\\qr code maker1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kk\\.nuget\\packages\\zxing.net\\0.16.6\\zxing.net.0.16.6.nupkg.sha512"
+  ],
+  "logs": []
+}
